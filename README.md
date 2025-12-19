@@ -5,7 +5,8 @@ This repository contains a comprehensive analysis of customer lifestyle data usi
 ---
 
 ## 📁 Project Structure
-```text
+
+```text 
 ASSIGNMENT 3/
 ├── .venv/                         # Virtual environment
 ├── 📄 k-Means_analysis.py          # K-Means clustering implementation
@@ -21,8 +22,8 @@ ASSIGNMENT 3/
 ├── 📑 ASSIGNMENT 3 INSTRUCTION.pdf # Assignment instructions
 ├── 📑 STINK3014-A251-Assignment-#3.docx # Assignment report
 └── 📖 README.md                    # Project documentation
-
-## 🎯 Project Overview
+```
+##  🎯 Project Overview
 
 ### Objective
 Segment customers based on lifestyle behaviors and characteristics using unsupervised machine learning techniques to identify distinct customer groups for targeted marketing strategies.
