@@ -70,9 +70,6 @@ Segment customers based on lifestyle behaviors and characteristics using unsuper
 - Train the Self-Organizing Map
 - Calculate performance metrics
 - Export results to CSV
-
-#### Visualization
-
 ---
 
 ## 📊 Output Files
